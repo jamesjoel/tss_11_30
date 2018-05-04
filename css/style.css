@@ -1,0 +1,25 @@
+.bg-color1{
+	background-color: #2CA4D5;
+}
+.color1{
+	color: #FFF !important;
+}
+#myMenu{
+	background-color: #2CA4D5;
+	color: #FFF !important;
+	/*margin-top: 50px !important;*/
+	clear: both;
+	/*border-radius: 10px 10px 0 0;*/
+}
+.navbar{
+	border-radius: 0px !important;
+}
+#myMenu a{
+	color: #FFF !important;
+
+}
+#accordion .glyphicon { margin-right:10px; }
+.panel-collapse>.list-group .list-group-item:first-child {border-top-right-radius: 0;border-top-left-radius: 0;}
+.panel-collapse>.list-group .list-group-item {border-width: 1px 0;}
+.panel-collapse>.list-group {margin-bottom: 0;}
+.panel-collapse .list-group-item {border-radius:0;}
